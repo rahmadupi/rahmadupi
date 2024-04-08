@@ -1,9 +1,8 @@
-#
 
 - 👋 Hi, I’m @rahmadupi
 - 👀 I’m interested in anything tech related
-- 🌱 I’m an informatics engineering undergraduate of Institut Teknologi Sepuluh Nopember
-- 📫 How to reach me? i'm off world
+- :school: I’m an informatics engineering undergraduate of Institut Teknologi Sepuluh Nopember
+- 📫 How to reach me? i'm off world(Physically)
 
 <!---
 rahmadupi/rahmadupi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
