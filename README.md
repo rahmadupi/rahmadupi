@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @rahmadupi
+- 👋 Hi, I’m Rahmad Bisma Zulfi Pahlevi
 - 👀 I’m interested in anything tech related
 - :school: I’m an informatics engineering undergraduate of Institut Teknologi Sepuluh Nopember
 - 📫 How to reach me? i'm off world(Physically)
