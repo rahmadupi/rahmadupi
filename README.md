@@ -1,6 +1,8 @@
+#
+
 - 👋 Hi, I’m @rahmadupi
 - 👀 I’m interested in anything tech related
-- 🌱 I’m currently learning anything tech related
+- 🌱 I’m an informatics engineering undergraduate of Institut Teknologi Sepuluh Nopember
 - 📫 How to reach me? i'm off world
 
 <!---
