@@ -1,5 +1,5 @@
 # 💫 About Me:
-Offworld - Human<br>Currently enrolled in Institut Teknologi Sepuluh Nopember Informatics Enginering Undergraduate.
+Offworld - Human<br>Currently enrolled in Institut Teknologi Sepuluh Nopember Informatics Engineering Undergraduate.
 
 
 ## 🌐 Socials:
